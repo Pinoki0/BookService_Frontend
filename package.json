@@ -1,0 +1,53 @@
+{
+  "name": "book_web_react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "array-filter": "^1.0.0",
+    "axios": "^0.18.1",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.6",
+    "is-empty": "^1.2.0",
+    "jwt-decode": "^2.2.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-bootstrap-toggle": "^2.3.2",
+    "react-datepicker": "^2.5.0",
+    "react-dom": "^16.8.6",
+    "react-dropdown": "^1.6.4",
+    "react-dropdown-button": "^1.0.11",
+    "react-dropdown-select": "^3.0.0",
+    "react-dropdownlist": "0.0.1",
+    "react-pagination-table": "^2.0.2",
+    "react-redux": "^7.0.3",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.0",
+    "react-select": "^2.4.3",
+    "react-widgets": "^4.4.11",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
